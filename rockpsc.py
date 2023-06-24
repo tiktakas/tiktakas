@@ -33,3 +33,4 @@ while a == 'y':
     if play_again != 'y':
         break
 print('Viso geriausio!\n')
+print('testinis variantas')
